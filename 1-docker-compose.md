@@ -1,3 +1,4 @@
+
 # Docker Compose
 Es una herramienta que permite definir y gestionar aplicaciones Docker multi-contenedor de forma sencilla. Puedes usar un archivo YAML usuamente llamado compose.yaml para configurar los servicios de tu aplicación, como contenedores, redes y volúmenes, y luego iniciar toda la aplicación con un solo comando.
 
@@ -46,6 +47,8 @@ docker compose up -d <nombre servicio>
 docker compose ps
 ```
 ### COMPLETAR CON UNA CAPTURA DE PANTALLA DEL LISTADO DE LOS CONTENEDORES EN EJECUCIÓN
+<img width="2350" height="1225" alt="image" src="https://github.com/user-attachments/assets/aefdfeaa-eb9b-40e6-86f7-7f4cf66ae581" />
+
 
 ### Detener y eliminar los contenedores definidos en el archivo
 ```
